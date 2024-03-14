@@ -80,3 +80,13 @@ main {
 .weather-app-temperature-container {
   display: flex;
 }
+.weather-forcast-temps-min {
+  opacity: 0.6px;
+  font-size: 15px;
+}
+.weather-forcast-temps-max {
+  font-size: 18px;
+}
+.weather-forcast-day {
+  font-size: 20px;
+}
